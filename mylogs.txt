@@ -1,0 +1,10 @@
+
+drank water at 2020-12-18 02:14:34.112372
+physical activity at 2020-12-18 02:14:37.497491
+drank water at 2020-12-18 02:14:43.376592
+drank water at 2020-12-19 22:45:38.787767
+physical activity at 2020-12-19 22:46:05.018963
+drank water at 2020-12-19 22:46:08.953143
+drank water at 2020-12-21 04:19:35.214139
+physical activity at 2020-12-21 04:19:38.679389
+drank water at 2020-12-21 04:19:45.447904
